@@ -58,7 +58,7 @@
  "includeVIPs":"true",
  "includeMods":"true",
  "allowUserList":"",
- "ignoreUserList":"StreamElements",
+ "ignoreUserList":"StreamElements, Streamlabs",
  "ignorePrefixList":"!",
  "volume":0,
  "soundGroup1":[],"userLevelSoundGroup1":"everyone","specificUsersSoundGroup1":"","messageTypeSoundGroup1":"all",
