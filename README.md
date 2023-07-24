@@ -1,7 +1,9 @@
 # ChatBubbleSimple
 Simple Twitch Chat bubbles with pronouns
 
-To get your pronoun set on twitch go to the following site. https://pronouns.alejo.io
+To get your pronoun set on twitch go to the following site. 
+
+https://pronouns.alejo.io
 
 When your making a chat schemes on streamelement follow these step
 
