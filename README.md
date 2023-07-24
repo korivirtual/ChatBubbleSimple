@@ -21,7 +21,25 @@ https://streamelements.com/
 10. click save.
 
 If all works you should be able to run the test command
+
 1. click on setting
 2. click preview
 3. sent test message
 4. if it work test will show up with random username.
+
+To add to obs, streamlabs, even obs/streamelement is to do the following for browser source.
+
+1. Login to streamelement
+2. Open the tab for stream tool
+3. What ever you name you overlay, click edit
+4. In the top right hand corner next to save and preveiw, you will see a copy overlay url, click that
+5. Next go to your streaming software of choice, I use obs so this will be for obs, but it work the same way for any other, and yes streamlabs can read browser source from streamelements
+6. Open obs
+7. In source if you already have a scenes then don't make a new scenes for this, click the plus sign in the source tab
+8. click browser
+9. create new(name it what you want, i name mine livechat.)
+10. url is the url you copy from streamelements so paste that there
+11. change the width to 550 and height to 700
+12. click ok
+
+That it you have a simple chat that has pronouns in it now.
