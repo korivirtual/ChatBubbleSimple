@@ -1,6 +1,7 @@
 # ChatBubbleSimple
 Simple Twitch Chat bubbles with pronouns
 
+To get your pronoun set on twitch go to the following site. https://pronouns.alejo.io
 
 When your making a chat schemes on streamelement follow these step
 
@@ -12,5 +13,5 @@ When your making a chat schemes on streamelement follow these step
 6. Click the + thing at the bottom
 7. Click on the setting tab
 8. open editor
-9. clear what in html at the code on the html, do the same with all the following (css, js fields, and data).
+9. clear what in html at the code on the /html, do the same with all the following ( /css, /js, /fields, and /data).
 10. click save.
