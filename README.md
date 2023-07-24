@@ -5,6 +5,8 @@ To get your pronoun set on twitch go to the following site. https://pronouns.ale
 
 When your making a chat schemes on streamelement follow these step
 
+https://streamelements.com/
+
 1. Login to streamelement
 2. Open the tab for stream tool
 3. New overlay
