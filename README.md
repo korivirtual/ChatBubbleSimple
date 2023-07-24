@@ -15,3 +15,9 @@ When your making a chat schemes on streamelement follow these step
 8. open editor
 9. clear what in html at the code on the /html, do the same with all the following ( /css, /js, /fields, and /data).
 10. click save.
+
+If all works you should be able to run the test command
+1. click on setting
+2. click preview
+3. sent test message
+4. if it work test will show up with random username.
